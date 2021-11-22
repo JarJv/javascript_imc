@@ -1,2 +1,1 @@
-# javascript_imc
-javascript_imc
+https://jarjv.github.io/javascript_imc/
